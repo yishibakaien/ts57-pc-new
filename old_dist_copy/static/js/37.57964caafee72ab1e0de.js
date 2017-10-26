@@ -1,0 +1,2 @@
+webpackJsonp([37],{1020:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=n(219);t.default={components:{vHeader:s.d,vNav:s.e,search:s.f}}},1421:function(e,t){e.exports={render:function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"supply-list-page"},[n("v-header",[n("search")],1),e._v(" "),n("v-nav"),e._v(" "),n("ts-title-block",[e._v("最新厂家供应")])],1)},staticRenderFns:[]}},864:function(e,t,n){var s=n(1)(n(1020),n(1421),null,null);e.exports=s.exports}});
+//# sourceMappingURL=37.57964caafee72ab1e0de.js.map
