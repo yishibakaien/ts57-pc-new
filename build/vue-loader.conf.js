@@ -8,13 +8,5 @@ module.exports = {
       ? config.build.productionSourceMap
       : config.dev.cssSourceMap,
     extract: isProduction
-  }),
-  postcss: function(webpack) {
-    return [require('postcss-salad')({
-        browsers: ['last 20 version'],
-        partialImport: {
-          addDependencyTo: webpack
-        }
-      })]
-  }
+  })
 }
