@@ -14,10 +14,13 @@ export const BANNER = {
   ],
   // 动态=>banner+跳转地址
   dynamic: [
-    {
-      pic: `${ALI_DOMAIN}banner/06.jpg`,
-      link: '/aboutLace'
-    }
+    /**
+     * 具有跳转功能的 banner 2017年10月27日10:01:30 陈庆伟撤下
+     */
+    // {
+    //   pic: `${ALI_DOMAIN}banner/06.jpg`,
+    //   link: '/aboutLace'
+    // }
   ]
 };
 export const MODELS = [
